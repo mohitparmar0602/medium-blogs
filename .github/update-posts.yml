@@ -18,6 +18,6 @@ jobs:
       - name: Pull latest Medium posts into README
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/feed/@yourusername"
+          feed_list: "https://medium.com/feed/@mohitparmar22584"
           max_post_count: 5
           readme_path: "./README.md"
